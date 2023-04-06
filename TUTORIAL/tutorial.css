@@ -1,0 +1,40 @@
+.container {
+    padding: 0;
+}
+
+body{
+   
+    color: white;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color:black;
+}
+.hero{
+    color: white;
+    text-align: center;
+    background-image: url('gospel-music.jpeg');
+    height: 600px;
+    margin: 5px;
+    padding: 150px;
+    border-radius: 15px;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    list-style: none;
+    padding-top: ;
+}
+.link{
+    padding: 10px;
+    margin: auto 15px;
+}
+.content{
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+}
